@@ -13,7 +13,7 @@ public class MyTest {
 
     private static class School {
         public static int getAverage(int[] marks) {
-           int sum = 0;
+            int sum = 0;
             for (int j : marks) {
                 sum += j;
             }
